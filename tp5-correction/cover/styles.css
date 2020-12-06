@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  color: #fff;
+  background-color: #c40b0b;
+  box-shadow: inset 0px 0px 200px 0px #f58888;
+}
+
+/* liens */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/*nav*/
+nav a {
+  font-size: 1.5rem;
+}
+
+/* Bouton */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  background-color: #fff;
+}
+
+
+
